@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thanachote Li</h1>
-<h3 align="center">A beginner programmer who still can't find where the memory leaks</h3>
 
-- 🔭 I’m currently working on **beginner_cpp**
+- 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **Machine Learning, Web Development**
 
