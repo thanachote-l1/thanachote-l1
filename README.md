@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web Development**
 
-- ⚡ Fun fact **I'm a Certified Celia Claire SIMP**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
