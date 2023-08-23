@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web Development**
 
-- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
